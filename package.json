@@ -2,9 +2,14 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mike Mora",
 	"description": "My implementation of freeCodeCamp Backend Challenges",
-	"keywords": ["freecodecamp", "backend", "nodejs"],
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"nodejs"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
